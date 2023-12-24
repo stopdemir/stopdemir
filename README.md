@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 - 👋 Hi, I’m @stopdemir<br>
-- 👀 I’m interested in machine learning, optimization, and artificial intelligence related topics and their applications. <br>
+- 👀 I’m interested in machine learning, optimization, artificial intelligence related topics, and their applications. <br>
 - 🌱 I’m currently learning javascript and react native<br>
 - 📫 How to reach me stopdemir@alumni.sabanciuniv.edu
 
