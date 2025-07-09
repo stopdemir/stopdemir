@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @stopdemir<br>
 - 👀 I'm interested in machine learning, optimization, artificial intelligence, and their practical applications. <br>
 - 🌱 I’m currently learning reinforcement learning<br>
-- 📫 How to reach me topdemirsuleyman13[@]gmail.com
+- 📫 How to reach me topdemirsuleyman13[at]gmail.com
 
 
 ## 🌐 Socials:
