@@ -1,4 +1,3 @@
-# 💫 About Me:
 
 - 👋🏻 Hi, I’m @stopdemir<br>
 - 👨🏻‍💻 I'm interested in machine learning, optimization, artificial intelligence, and their practical applications. <br>
@@ -6,7 +5,6 @@
 - 🕊️ How to reach me topdemirsuleyman13 [at] gmail [dot] com
 
 
-## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/stopdemir) 
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://kaggle.com/stopdemir)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18382448/süleyman-topdemir)
