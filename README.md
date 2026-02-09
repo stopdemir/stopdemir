@@ -2,7 +2,7 @@
 - 👋🏻 Hi, I’m @stopdemir<br>
 - 👨🏻‍💻 I'm proficient in machine learning, optimization, artificial intelligence, and their practical applications. <br>
 - 🦾 I’m currently learning reinforcement learning<br>
-- 🕊️ How to reach me topdemirsuleyman13 [at] gmail [dot] com
+- 🕊️ How to reach me stopdemir [at] stopdemir [dot] com
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/stopdemir) 
